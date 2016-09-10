@@ -47,6 +47,10 @@
     line-height: 38px;
 }
 
+.site-header-brand {
+    width: 100%;
+}
+
 .site-header-nav{
     float:right;
     margin-bottom: -20px;
