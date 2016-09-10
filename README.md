@@ -1,8 +1,9 @@
 # Portfolio Site for Ryan Matteson
-# Junior Full Stack Web Developer
 
-I like to write software in PHP, Javascript, and CSS. I build custom e-commerce and inventory solutions for companies of all sizes. 
+I am Junior Full Stack Web Developer who loves to to write software using PHP, Javascript, and CSS. I build custom e-commerce and inventory solutions for companies of all sizes. 
+
+You can view the live site at:
+## [Live Site Here](https://www.crunchyrobot.com)
 
 
-Based on work done by Dong Chuan
-## [Live Demo](http://dongchuan.github.io/)
+## [Based on work done by Dong Chuan](http://dongchuan.github.io/)
