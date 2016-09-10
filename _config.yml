@@ -12,7 +12,7 @@ email: ryan@crunchyrobot.com
 location: Fallbrook, CA # ex. Nice, France
 company: crunchyrobot.com
 company_url: crunchyrobot.com
-github_url: crunchrobot.github.io l # ex. https://github.com/DONGChuan
+github_url: crunchrobot.github.io # ex. https://github.com/DONGChuan
 description: crunchyrobot.com
 favicon: favicon.png # Image must be in assets/images
 repository: crunchyrobot/crunchyrobot.github.io # ex. DONGChuan/DONGChuan.github.io
@@ -20,7 +20,7 @@ repository: crunchyrobot/crunchyrobot.github.io # ex. DONGChuan/DONGChuan.github
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://localhost:4000
+url: http://www.crunchyrobot.com
 
 ## Gem
 gems:
